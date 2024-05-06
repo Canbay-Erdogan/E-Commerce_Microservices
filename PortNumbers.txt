@@ -1,0 +1,6 @@
+identity >> 5001
+katalog  >> 7080
+discount >> 7081
+Order	 >>	7082
+Cargo	 >>	7083
+Basker	 >> 7084
