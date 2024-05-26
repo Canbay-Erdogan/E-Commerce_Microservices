@@ -12,7 +12,7 @@
     "MultiShop.Catalog": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": false,
+      "launchBrowser": false, //https://localhost:7080/swagger/index.html
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7080",
       "environmentVariables": {
